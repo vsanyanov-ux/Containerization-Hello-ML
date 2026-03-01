@@ -1,0 +1,7 @@
+.git/
+__pycache__/
+*.ipynb
+data/
+logs/
+.dockerignore
+Dockerfile
